@@ -1,0 +1,9 @@
+{
+  "movements": [
+    { "id": "1", "movement": "nothing"},
+    { "id": "2", "movement": "nothing"}
+  ],
+  "profile": {
+    "name": "robot-war"
+  }
+}
