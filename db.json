@@ -1,11 +1,11 @@
 {
   "movements": [
-    { "id": "0", "movement": "nothing"},
-    { "id": "1", "movement": "nothing"}
+    { "id": 0, "movement": "nothing"},
+    { "id": 1, "movement": "nothing"}
   ],
   "status": [
-    {"id":"0", "equipped":false},
-    {"id":"1", "equipped":false}
+    {"id": 0, "equipped":false},
+    {"id": 1, "equipped":false}
   ],
   "profile": {
     "name": "robot-war"
