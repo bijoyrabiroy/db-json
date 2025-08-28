@@ -1,7 +1,7 @@
 {
   "movements": [
-    { "player-id": "0", "movement": "nothing"},
-    { "player-id": "1", "movement": "nothing"}
+    { "id": "0", "movement": "nothing"},
+    { "id": "1", "movement": "nothing"}
   ],
   "profile": {
     "name": "robot-war"
