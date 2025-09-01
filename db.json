@@ -7,7 +7,11 @@
   ],
   "movements": [
     {
-      "id": "",
+      "id": "player0",
+      "distance": 0
+    },
+    {
+      "id": "player1",
       "distance": 0
     }
   ]
