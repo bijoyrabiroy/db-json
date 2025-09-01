@@ -1,8 +1,14 @@
 {
   "accounts": [
-    {"id": "", "password":""}
+    {
+      "id": "",
+      "password": ""
+    }
   ],
   "movements": [
-    {"distance":0}
+    {
+      "id": "",
+      "distance": 0
+    }
   ]
 }
