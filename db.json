@@ -1,5 +1,8 @@
 {
   "accounts": [
     {"id": "", "password":""}
+  ],
+  "movements": [
+    {"id": "", "distance":0}
   ]
 }
