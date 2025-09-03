@@ -1,18 +1,39 @@
 {
-  "accounts": [
+  "images": [
     {
-      "id": "",
-      "password": ""
-    }
-  ],
-  "movements": [
-    {
-      "id": "player0",
-      "distance": 0
+      "id": 1,
+      "box-count": 2,
+      "url": "https://i.pinimg.com/736x/2a/d8/bb/2ad8bb4d6faf17e0fbab3ed2d24f8cf9.jpg"
     },
     {
-      "id": "player1",
-      "distance": 0
+      "id": 2,
+      "box-count": 2,
+      "url": "https://i.pinimg.com/1200x/f2/33/28/f23328c9a71eedd94ac45086586f015d.jpg"
+    },
+    {
+      "id": 3,
+      "box-count": 3,
+      "url": "https://i.pinimg.com/1200x/7b/ea/5f/7bea5f1f519889a6d9b5a10fddaa2e46.jpg"
+    },
+    {
+      "id": 4,
+      "box-count": 1,
+      "url": "https://i.pinimg.com/736x/2b/ff/ce/2bffce436d0a3058e2bb924457bdf1d4.jpg"
+    },
+    {
+      "id": 5,
+      "box-count": 2,
+      "url": "https://i.pinimg.com/736x/d9/01/c2/d901c2d43742dfe76f1ae176f3d6675d.jpg"
+    },
+    {
+      "id": 6,
+      "box-count": 3,
+      "url": "https://i.pinimg.com/1200x/79/34/b5/7934b5ae89fb15eb25d0c4bc20ee0ee9.jpg"
+    },
+    {
+      "id": 7,
+      "box-count": 3,
+      "url": "https://i.pinimg.com/1200x/d4/06/c5/d406c50afc12e736dee7ce9e6f9a3511.jpg"
     }
   ]
 }
